@@ -463,7 +463,7 @@ một	M	B-YEAR
 giai_đoạn	N	I-YEAR
 nhiều	L	O
 biến_động	N	O
-về_sau	N	I-YEAR
+về_sau	N	B-YEAR
 .	CH	O
 
 Đề_thi	N	O
@@ -865,7 +865,7 @@ lắt_léo	N	B-LEVEL
 và	Cc	O
 phân_hóa	V	B-DISC
 thí_sinh	N	O
-rõ_rệt	A	I-DISC
+rõ_rệt	A	B-DISC
 .	CH	O
 
 Năm	N	B-YEAR
@@ -1999,7 +1999,7 @@ giỏi	A	O
 Đề_thi	N	O
 giảm_tải	N	B-STRUC
 nhiều	L	O
-nội_dung	N	I-STRUC
+nội_dung	N	B-STRUC
 khó	A	B-LEVEL
 và	Cc	O
 tập_trung	V	O
@@ -2007,7 +2007,7 @@ vào	N	O
 kiến_thức	N	B-STRUC
 cốt_lõi	N	I-STRUC
 của	E	O
-chương_trình	N	I-STRUC
+chương_trình	N	B-STRUC
 .	CH	O
 
 Đề_thi	N	O
@@ -2312,7 +2312,7 @@ Ma_trận	N	B-STRUC
 đề_thi	N	I-STRUC
 ổn_định	A	I-STRUC
 và	Cc	O
-chuẩn_mực	N	I-STRUC
+chuẩn_mực	N	B-STRUC
 ,	CH	O
 tập_trung	V	O
 đánh_giá	V	O
@@ -2346,7 +2346,7 @@ Năm	N	B-YEAR
 ,	CH	O
 mức_độ	N	B-LEVEL
 đề_thi	N	O
-tương_đương	N	I-LEVEL
+tương_đương	N	B-LEVEL
 năm	N	B-YEAR
 2020	M	I-YEAR
 ,	CH	O
@@ -2566,7 +2566,7 @@ thí_sinh	N	O
 tư_duy	N	B-SKILL
 mạch_lạc	N	I-SKILL
 ,	CH	O
-chính_xác	N	I-SKILL
+chính_xác	N	B-SKILL
 .	CH	O
 
 Đề	N	O
@@ -2673,7 +2673,7 @@ có	V	O
 tính	N	B-DISC
 phân_loại	V	I-DISC
 thí_sinh	N	O
-cao	A	I-DISC
+cao	A	B-DISC
 ở	E	O
 các	L	O
 câu	N	B-STRUC
@@ -4709,7 +4709,7 @@ sự	N	B-STRUC
 thay_đổi	V	I-STRUC
 lớn	N	I-STRUC
 về	E	O
-cấu_trúc	N	I-STRUC
+cấu_trúc	N	B-STRUC
 và	Cc	O
 đòi_hỏi	V	O
 tư_duy	N	B-SKILL
@@ -4773,7 +4773,7 @@ tập_trung	V	O
 vào	N	O
 giải_quyết	V	B-SKILL
 các	L	O
-vấn_đề	N	I-SKILL
+vấn_đề	N	B-SKILL
 thực_tiễn	N	I-SKILL
 .	CH	O
 
